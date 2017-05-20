@@ -4578,7 +4578,7 @@ section.parallax .row .background-image-holder {
 }
 /*! -- Stack Bars -- */
 .bar .logo {
-  max-height: 46px;
+  max-height: 2.875em;
   max-width: none;
 }
 .menu-horizontal > li > a,
